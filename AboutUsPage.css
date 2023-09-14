@@ -1,0 +1,77 @@
+body{
+    background: #F8EEE6;
+ }
+ .navbar{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+   font-size: 16px;
+   font-family: Helvetica, sans-serif;
+   color:black;
+   font-weight: 600;
+ }
+.img-logo{
+    width: 80px;
+    margin-left: 50px;
+}
+button{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin-right: 50px;
+
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.main-content{
+    position: relative;
+   font-size: 50px; 
+   font-weight: 300;
+   font-style: normal;
+   font-family:;
+  
+}
+
+.sub-content{
+    
+    margin-left: 100px;  
+    margin-top: -110px;
+    display: flex;
+    flex-direction: column;  
+    color: ;  
+}
+
+.banner{
+      position: absolute;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+       margin-top: -200px ;
+      margin-left: 450px;
+      translate: 30px 15px;
+}
+
+.helmet-logo{
+    
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    margin-right: 80px;
+    margin-top: 70px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer button{
+    background-color: yellow;
+    color: black ;
+}
+
+
